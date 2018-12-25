@@ -1,5 +1,5 @@
 {
-  "name": "rollun-dojo-2-themes",
+  "name": "dojo-2-themes",
   "version": "0.1.0",
   "dependencies": {
     "tslib": "~1.8.1"
