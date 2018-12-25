@@ -1,0 +1,34 @@
+.title {
+    composes: title from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
+
+.closeable {
+    composes: closeable from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
+
+.arrow {
+    composes: arrow from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
+
+.root {
+    composes: root from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
+
+.open {
+    composes: open from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
+
+.content {
+    composes: content from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+    border: 0;
+}
+
+.titleButton {
+    composes: titleButton from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+    border: 0;
+    margin:2px;
+}
+
+.contentTransition {
+    composes: contentTransition from '../../../node_modules/@dojo/themes/dojo/title-pane.m.css';
+}
