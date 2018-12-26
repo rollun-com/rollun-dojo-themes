@@ -1,6 +1,6 @@
 {
   "name": "dojo-2-themes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "tslib": "~1.8.1"
   },
