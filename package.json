@@ -16,6 +16,6 @@
     "dist/src"
   ],
   "scripts": {
-    "build": "node_modules/.bin/tsc"
+    "build": "node_modules/.bin/dojo build theme -n default"
   }
 }
